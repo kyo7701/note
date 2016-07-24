@@ -153,4 +153,7 @@ git push
 
 到此,git的windows使用篇就结束了,更多git的命令操作请参见[git 常用命令](http://www.cnblogs.com/cspku/articles/Git_cmds.html)
 
+此外,我封装了一些Mac端git操作的常用命令,在shell中输入ca即可完成添加所有更改,并进行提交等等,更多命令请见
+[git常用命令封装](https://github.com/kyo7701/tools)
+
 
